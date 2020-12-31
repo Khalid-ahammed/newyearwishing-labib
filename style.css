@@ -435,3 +435,50 @@ p{
         top:9%;
     }
 }
+
+@media screen and (max-height:350px)
+{
+    .flowerbox{
+        height:50px;
+        width:50px;
+    }
+    .hero{
+        width:50%;
+        height:60%;
+    }
+    .box1{
+        height:30%;
+    }
+    p{
+        font-size:2.53rem;
+    }
+   .e1,.e2,.e3{
+       font-size: 2rem!important;
+       
+   }
+   .fo2,.fo4{
+    left:80%!important;
+   }
+   .fo1,.fo3{
+       left:10%!important;
+   }
+   .card-wrapper{
+       top:7%;
+   }
+   h1{
+       font-size: 1.1rem;;
+   }
+   .content{
+    transform: translateZ(15px);
+    }
+
+    .labib{
+        top:82%;
+        line-height: .7rem;
+        font-size:.8rem;
+    }
+    .al{
+        font-size:.7rem;
+    }
+}
+
